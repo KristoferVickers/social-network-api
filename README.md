@@ -7,6 +7,7 @@
 - [Technology](#Technology)
 - [User Story](#User-Story)
 - [Acceptance Criteria](#Acceptance-Criteria)
+- [Links](#Links)
 
 ## License
 
@@ -51,7 +52,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ```
 
 
-
+## Links
 
 https://github.com/KristoferVickers
 
