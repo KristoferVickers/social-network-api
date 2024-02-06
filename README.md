@@ -19,6 +19,7 @@ This project is licensed under MIT, for more information please visit [this webs
 
 ## Description:
 
+Introducing a versatile API for a social network web application that allows users to express themselves by sharing thoughts, reacting to friends' content, and managing friend lists. This API ensures a smooth and secure user experience, supporting various content formats and interactive features. It's designed for easy integration, offering clear documentation for developers to enhance their social network platforms effortlessly.
 
 ## Technology:
 
