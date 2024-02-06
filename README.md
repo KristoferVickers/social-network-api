@@ -56,3 +56,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 #### Walkthrough Video
 
 
+
+https://github.com/KristoferVickers
+
+kristofervickers2018@gmail.com
