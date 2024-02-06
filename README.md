@@ -7,9 +7,6 @@
 - [Technology](#Technology)
 - [User Story](#User-Story)
 - [Acceptance Criteria](#Acceptance-Criteria)
-- [Walkthrough Video](#Walkthrough-Video)
-- [Screenshot](#Screenshot)
-- [Contribution](#contribution)
 
 ## License
 
@@ -19,7 +16,7 @@ This project is licensed under MIT, for more information please visit [this webs
 
 ## Description:
 
-Introducing a versatile API for a social network web application that allows users to express themselves by sharing thoughts, reacting to friends' content, and managing friend lists. This API ensures a smooth and secure user experience, supporting various content formats and interactive features. It's designed for easy integration, offering clear documentation for developers to enhance their social network platforms effortlessly.
+I for the life of me cannot get the routes to populate on insomina the app runs and what not but the routes will not populate. I will be schedualing a tutoring session this week coming up to get this project fully operational. I used alot of code from the mini project. Nothing Im doing is seeming to work to fix the route issue. I am turing it in as is for now. 
 
 ## Technology:
 
@@ -53,7 +50,6 @@ WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 ```
 
-#### Walkthrough Video
 
 
 
