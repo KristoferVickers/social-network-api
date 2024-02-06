@@ -17,7 +17,7 @@ This project is licensed under MIT, for more information please visit [this webs
 
 ## Description:
 
-I for the life of me cannot get the routes to populate on insomina the app runs and what not but the routes will not populate. I will be schedualing a tutoring session this week coming up to get this project fully operational. I used alot of code from the mini project. Nothing Im doing is seeming to work to fix the route issue. I am turing it in as is for now. 
+I for the life of me cannot get the routes to populate on insomina the app runs and what not but the routes will not populate. I will be schedualing a tutoring session this week coming up to get this project fully operational. I used alot of code from the mini project. Nothing Im doing is seeming to work to fix the route issue I am turning it in as is for now. Some of the code I was help by my brother he is programmer and worked with me on the controllers. But mainly this code came from the mini project of last week. 
 
 ## Technology:
 
